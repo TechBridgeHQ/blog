@@ -13,14 +13,9 @@
 4. [@pojenlai](https://pojenlai.wordpress.com/) 演算法工程師，對機器人跟電腦視覺有少許研究，最近在鍛鍊自己的執行力
 
 ## Contribute
-1. `$ npm install -g hexo-cli`
-2. `$ git clone https://github.com/TechBridgeHQ/techbridgehq.github.io.git`
-3. 寫新文章 `$ hexo new post <title>`，開始使用 Markdown 撰寫文章
-4. 重新 compile 一次 `$hexo g`
-5. 在本地端(http://localhost:4000)觀看 `$hexo s`
-6. Deploy `$hexo d`
+1. `$git clone https://github.com/TechBridgeHQ/blog.git`
+2. 新增自己author的資料夾，將文章.md檔案放入
+3. `$git add 檔案`
+4. `$git commit -a -m yourcommit`
+5. `$git push`
 
-## Documents
-1. [使用GitHub和Hexo搭建免费静态Blog](http://wsgzao.github.io/post/hexo-guide/)
-2. [Hexo常见问题解决方案](https://xuanwo.org/2014/08/14/hexo-usual-problem/)
-3. [Hexo 安裝教學、心得筆記](https://wwssllabcd.github.io/blog/2014/12/22/how-to-install-hexo/)
