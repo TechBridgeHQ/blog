@@ -1,6 +1,7 @@
 # TechBridge 技術共筆部落格
 這是個由 TechBridge Weekly 技術週刊團隊維護的技術部落格，本技術共筆部落格初期專注於Web前後端、行動網路、機器人/物聯網、數據分析與產品設計等技術分享。This is TechBridge Weekly Team's Tech Blog, which focus on web, mobile, robot, IoT, data analytics technology sharing. 
 
+- 技術共筆部落格：[http://blog.techbridge.cc/](http://blog.techbridge.cc/)
 - 技術日報：[http://www.techbridge.cc/](http://www.techbridge.cc/)
 - 技術週刊：[http://weekly.techbridge.cc/](http://weekly.techbridge.cc/)
 - 粉絲專頁：[https://www.facebook.com/TechBridge.Fans/](https://www.facebook.com/TechBridge.Fans/)
