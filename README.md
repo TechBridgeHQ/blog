@@ -5,17 +5,23 @@
 - 技術週刊：[http://weekly.techbridge.cc/](http://weekly.techbridge.cc/)
 - 粉絲專頁：[https://www.facebook.com/TechBridge.Fans/](https://www.facebook.com/TechBridge.Fans/)
 
-## 目前負責的 Curator（歡迎有興趣朋友跳坑加入策展人團隊:P）
+## Contribute（分成 hexo 原始檔和已完成編譯的 .html 靜態檔案）
+1. `$ npm install -g hexo-cli`
+2. `$ git clone https://github.com/TechBridgeHQ/blog-starter-kit.git`
+3. `$ npm install`
+4. 寫新文章 `$ hexo new post <title>`，在 source > _post 資料夾下開始使用 Markdown 撰寫文章（寫靜態檔案為 new page、草稿：new draft）
+5. 重新 compile 一次，將 .md 檔案轉成 .html 等靜態檔案 `$ hexo g `
+6. 在本地端(http://localhost:4000)觀看效果 `$ hexo s`
+7. 確認無誤後 `$ git status` ，看是否有要 `$ git add 檔案`，若無則 `$ git commit -a -m your_commit`，`$ git push origin`
+8. 上傳成功後，Deploy `$ hexo d` 到正式站點
 
+## Documents
+1. [使用GitHub和Hexo搭建免费静态Blog](http://wsgzao.github.io/post/hexo-guide/)
+2. [Hexo常见问题解决方案](https://xuanwo.org/2014/08/14/hexo-usual-problem/)
+3. [Hexo 安裝教學、心得筆記](https://wwssllabcd.github.io/blog/2014/12/22/how-to-install-hexo/)
+
+## 目前負責的 Curator（歡迎有興趣朋友跳坑加入策展人團隊:P）
 1. [@kdchang](http://blog.kdchang.cc) 文藝型開發者，夢想是做出人們想用的產品和辦一所心目中理想的學校
 2. [@arvinh](http://cv.arvinh.info) 前端攻城獅，熱愛數據分析和資訊視覺化
 3. [@huli](http://huli.logdown.com) 野生工程師，相信分享與交流能讓世界變得更美好
 4. [@pojenlai](https://pojenlai.wordpress.com/) 演算法工程師，對機器人跟電腦視覺有少許研究，最近在鍛鍊自己的執行力
-
-## Contribute
-1. `$git clone https://github.com/TechBridgeHQ/blog.git`
-2. 新增自己author的資料夾，將文章.md檔案放入
-3. `$git add 檔案`
-4. `$git commit -a -m yourcommit`
-5. `$git push`
-
