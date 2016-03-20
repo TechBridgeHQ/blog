@@ -17,6 +17,8 @@
 8. 上傳成功後，Deploy `$ hexo d` 到正式站點
 9. 至 [http://blog.techbridge.cc](http://blog.techbridge.cc) 看是否正確
 
+PS. 口訣先 git push，再 hexo deploy
+
 ## Format（文章格式）
 ```
 ---
