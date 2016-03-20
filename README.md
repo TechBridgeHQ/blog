@@ -28,6 +28,12 @@ tags: 機器人, 深度學習, Deep Learing, Robot, GoogLeNet, Caffe
 author: pojenlai
 ---
 以下文章內容
+XXXXX
+
+以下請關於作者先自己加上，之後會轉成自動生成：
+關於作者： 
+@pojenlai 演算法工程師，對機器人跟電腦視覺有少許研究，最近在鍛鍊自己的執行力
+
 ```
 
 ## Documents
