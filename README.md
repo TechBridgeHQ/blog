@@ -14,6 +14,7 @@
 6. 在本地端(http://localhost:4000)觀看效果 `$ hexo s`
 7. 確認無誤後 `$ git status` ，看是否有要 `$ git add 檔案`，若無則 `$ git commit -a -m your_commit`，`$ git push origin`
 8. 上傳成功後，Deploy `$ hexo d` 到正式站點
+9. 至 [http://blog.techbridge.cc](http://blog.techbridge.cc) 看是否正確
 
 ## Documents
 1. [使用GitHub和Hexo搭建免费静态Blog](http://wsgzao.github.io/post/hexo-guide/)
