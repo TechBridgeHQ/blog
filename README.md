@@ -11,8 +11,13 @@
 2. `$ git clone https://github.com/TechBridgeHQ/blog-starter-kit.git`
 3. `$ npm install`
 4. 寫新文章 `$ hexo new post <title>`，在 source > _post 資料夾下開始使用 Markdown 撰寫文章（寫靜態檔案為 new page、草稿：new draft）
-5. 重新 compile 一次，將 .md 檔案轉成 .html 等靜態檔案 `$ hexo g `。文章格式如下：
+5. 重新 compile 一次，將 .md 檔案轉成 .html 等靜態檔案 `$ hexo g `
+6. 在本地端(http://localhost:4000)觀看效果 `$ hexo s`
+7. 確認無誤後 `$ git status` ，看是否有要 `$ git add 檔案`，若無則 `$ git commit -a -m your_commit`，`$ git push origin`
+8. 上傳成功後，Deploy `$ hexo d` 到正式站點
+9. 至 [http://blog.techbridge.cc](http://blog.techbridge.cc) 看是否正確
 
+## Format（文章格式）
 ```
 ---
 title: Caffe & GoogLeNet，怎麼幫助機器人更好地辨識物體
@@ -22,11 +27,6 @@ author: pojenlai
 ---
 以下文章內容
 ```
-
-6. 在本地端(http://localhost:4000)觀看效果 `$ hexo s`
-7. 確認無誤後 `$ git status` ，看是否有要 `$ git add 檔案`，若無則 `$ git commit -a -m your_commit`，`$ git push origin`
-8. 上傳成功後，Deploy `$ hexo d` 到正式站點
-9. 至 [http://blog.techbridge.cc](http://blog.techbridge.cc) 看是否正確
 
 ## Documents
 1. [使用GitHub和Hexo搭建免费静态Blog](http://wsgzao.github.io/post/hexo-guide/)
