@@ -12,7 +12,7 @@
 3. `$ npm install`
 4. 寫新文章 `$ hexo new post <title>`，在 source > _post 資料夾下開始使用 Markdown 撰寫文章（寫靜態檔案為 new page、草稿：new draft）
 5. 重新 compile 一次，將 .md 檔案轉成 .html 等靜態檔案 `$ hexo g `
-6. 在本地端(http://localhost:4000)觀看效果 `$ hexo s`，（若遇到問題請多 `$ hexo g ` compile 幾次）
+6. 在本地端 [http://localhost:4000](http://localhost:4000) 觀看效果 `$ hexo s`，（若遇到問題請多 `$ hexo g ` compile 幾次）
 7. 確認無誤後 `$ git status` ，看是否有要 `$ git add 檔案`，若無則 `$ git commit -a -m your_commit`，先 `$ git pull` 再 `$ git push origin`
 8. 上傳成功後，Deploy `$ hexo d` 到正式站點
 9. 至 [http://blog.techbridge.cc](http://blog.techbridge.cc) 看是否正確
