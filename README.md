@@ -20,6 +20,8 @@
 PS. 口訣先 git push，再 hexo deploy
 
 ## Format（文章格式）
+- 文章內容請遵守[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+
 ```
 ---
 title: Caffe & GoogLeNet，怎麼幫助機器人更好地辨識物體
@@ -46,3 +48,6 @@ XXXXX
 2. [@arvinh](http://cv.arvinh.info) 前端攻城獅，熱愛數據分析和資訊視覺化
 3. [@huli](http://huli.logdown.com) 野生工程師，相信分享與交流能讓世界變得更美好
 4. [@pojenlai](https://pojenlai.wordpress.com/) 演算法工程師，對機器人跟電腦視覺有少許研究，最近在鍛鍊自己的執行力
+
+## Contribute
+請發 Pull Request 到 [TechBridgeHQ/blog-starter-kit](https://github.com/TechBridgeHQ/blog-starter-kit)，審核通過即會刊出
